@@ -1,4 +1,4 @@
-# Cuso de  Sympy
+# Curso de  SymPy
 ### Curso de la libreria de python Sympy, realizado en Colab e importado a github
 
 SymPy es una biblioteca escrita en Python cuyo objetivo es reunir todas las características de un sistema de álgebra computacional (CAS), ser fácilmente extensible y mantener el código todo lo simple que sea posible. SymPy no requiere ninguna biblioteca externa, salvo para soporte gráfico.
